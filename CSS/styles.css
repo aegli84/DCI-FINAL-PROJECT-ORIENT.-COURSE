@@ -52,7 +52,7 @@ nav a:active {
 /* Main section banner */
  
 .banner {
-    background-image: url(/img/my-pool.jpg);
+    background-image: url(/my-pool.jpg);
     background-repeat: no-repeat;
     background-size: cover; 
     background-position-y: 65%; 
