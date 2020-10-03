@@ -55,12 +55,9 @@ nav a:active {
     background-image: url(/img/my-pool.jpg);
     background-repeat: no-repeat;
     background-size: cover; 
-    background-position-y: 65%;
-      
+    background-position-y: 65%; 
     margin: 0 -20px;
-    
     height: 815px;      
-    
 }
 .banner-text {
     display: block;  
@@ -179,9 +176,9 @@ h4 {
     padding: 0;  
 }
 h5 {
-  font-weight : bold;
-  font-size : 25px;
-  color: #000;
+    font-weight : bold;
+    font-size : 25px;
+    color: #000;
 } 
 
 /* End of Footer */
