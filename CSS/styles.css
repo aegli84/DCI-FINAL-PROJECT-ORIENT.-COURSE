@@ -57,11 +57,11 @@ nav a:active {
     background-size: cover; 
     background-position-y: 65%; 
     margin: 0 -20px;
-    height: 815px;      
+    height: 600px;      
 }
 .banner-text {
     display: block;  
-    color: #ffffff;
+    color: #0f0c0c;
     width: 90%;
     padding: 132px 0px 200px 75px;  
 }
@@ -81,17 +81,16 @@ nav a:active {
 .banner h1 {
     font-size: 75px;
     margin: 20px; 
-    
-    text-shadow: 5px -6px #2a3b2f; 
+    text-shadow: 5px -6px #dee7e1; 
     /* padding:  132px 0px 200px 75px;   */
     font-family: 'Vast Shadow';
-    font-weight: initial;
+    
     /* letter-spacing: 0.1em; */
 }
 
 #h1-p {
     font-size: 35px;
-    font-weight: bold;
+    font-weight: bolder;
     /* text-align: right; */
     padding: 10px 0;  
     margin: 35px;  
@@ -111,7 +110,7 @@ nav a:active {
 #header-2 {
     font-size: 35px;
     text-transform: uppercase;
-    color: #36312d;
+    color: #ffffff;
 }
 #h2-p {
     font-size: 25px;
